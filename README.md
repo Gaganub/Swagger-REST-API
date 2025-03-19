@@ -131,7 +131,3 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 🤝 Contributing
 
 Want to contribute? Fork the repo, create a new branch, and submit a pull request! 🚀
-
-📧 Need Help?
-
-For any questions, reach out to your-email@example.com or open an issue in the repository.
