@@ -6,7 +6,7 @@ Welcome to StudentAPI, a simple yet powerful RESTful API built with ASP.NET Core
 
 🚀 Features
 
-✔️ Fully functional REST API for student management
+✔️ Fully functional REST API for student management 
 ✔️ CRUD operations (Create, Read, Update, Delete)
 ✔️ In-memory data storage (easily extendable to SQL database)
 ✔️ CORS enabled to allow cross-origin requests
