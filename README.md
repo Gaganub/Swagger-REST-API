@@ -2,7 +2,7 @@
 
   
 
-Welcome to StudentAPI, a simple yet powerful RESTful API built with ASP.NET Core. This project demonstrates CRUD operations (Create, Read, Update, Delete) for managing student records and serves as an excellent learning resource for beginners in web API development.
+Welcome to StudentAPI, a simple yet powerful RESTful API built with ASP.NET Core. This project demonstrates CRUD operations (Create, Read, update, delete) for managing student records and serves as an excellent learning resource for beginners in web API development.
 
 🚀 Features
 
