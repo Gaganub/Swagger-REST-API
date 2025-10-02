@@ -7,5 +7,3 @@ namespace StudentAPI.Models
         public string Course { get; set; } = string.Empty;  // ✅ Set default value
     }
 }
-
-
